@@ -1,1 +1,1 @@
-# homedepotcard
+# Homedepot.com/mycard
