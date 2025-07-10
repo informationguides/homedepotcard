@@ -8,7 +8,7 @@ Easily log in to your Home Depot Credit Card account, pay your bills online, and
 
 .. image:: activatenow.png
    :alt: Homedepot.com/mycard
-   :target: https://sites.google.com/view/homedepotcard-helpcenter/
+   :target: https://pre.im/?yFluJEmDu0Xlc4zUGyAXJblNXwf50ZFb9MOXNgdayqLF7DXSb7qWnPEkt85eln3YDD9fdOW
 
 ========================================
 How to Access Your Home Depot Credit Card Account Safely Online?
